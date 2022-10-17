@@ -1,0 +1,6 @@
+Criar um aplicativo execultavel com Python
+
+terminal --- prompt comando
+
+pyinstaller -- onefile _____nome do arq + extensão___ - w
+
